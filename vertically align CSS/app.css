@@ -1,0 +1,25 @@
+body {
+    font: 100% Helvetica, sans-serif;
+}
+
+.container {
+    width: 100%;
+}
+.no-result{
+    text-align: center;
+    background-color: #222;
+    color: #EEE;
+    height: 200px;
+
+}
+.vertical-align {
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+@media only screen and (min-width: 40em) {
+    .no-result {
+        height: 500px;
+    }
+}

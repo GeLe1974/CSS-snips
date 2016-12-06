@@ -1,0 +1,843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"translateY()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fo",
+				"font_face\t(Preferences.sublime-settings)"
+			],
+			[
+				"paper-m",
+				"paper-material\tpaper-material"
+			],
+			[
+				"paper--d",
+				"paper-dropdown-menu"
+			],
+			[
+				"app",
+				"app1-app"
+			],
+			[
+				"my",
+				"my-element"
+			],
+			[
+				"m",
+				"my-element"
+			],
+			[
+				"p",
+				"pes\tpolymer element, external styles"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"add",
+				"addCSS"
+			],
+			[
+				"s",
+				"store\t(Book.class.php)"
+			],
+			[
+				"inc",
+				"include_once"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ac",
+				"activeSub\t(valerie.php)"
+			],
+			[
+				"va",
+				"valerie.php"
+			],
+			[
+				"pap",
+				"papillon-jong.php"
+			],
+			[
+				"act",
+				"activeSub"
+			],
+			[
+				"Vocal",
+				"Vocal4’s"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"page",
+				"pageData"
+			],
+			[
+				"he",
+				"header\t(index.html)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"js"
+			],
+			[
+				"ap",
+				"app.css\t(index.html)"
+			],
+			[
+				"pag",
+				"pageData"
+			],
+			[
+				"or",
+				"orbit-slide"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font_size"
+			],
+			[
+				"E",
+				"Employer\t(CV.php)"
+			],
+			[
+				"has",
+				"hasMany\t(CV.php)"
+			],
+			[
+				"fu",
+				"function\t(2016_05_29_200742_create_c_vs_table.php)"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"h",
+				"home"
+			],
+			[
+				"n",
+				"name1"
+			],
+			[
+				"Se",
+				"SetTickLabels"
+			],
+			[
+				"rotate",
+				"rotateZ"
+			],
+			[
+				"ro",
+				"rotateZ"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"typ",
+				"list-style-position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"lengte",
+				"lengte_cm"
+			],
+			[
+				"bereke",
+				"bereken_bmi"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"border-col",
+				"border-collapse"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.css",
+			"settings":
+			{
+				"buffer_size": 364,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Pcack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gu",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"getter",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/project20160080 Codecourse/vertically align CSS"
+	],
+	"file_history":
+	[
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/Package Control.user-ca-bundle",
+		"/Users/Geert/Downloads/index.html",
+		"/Users/Geert/Downloads/index.blade.php",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Geert/Sites/devdesktop2/profile/themes/bootstrap_subtheme_cdn/css/style.css",
+		"/Users/Geert/Sites/devdesktop2/profile/themes/bootstrap_subtheme_cdn/bootstrap_subtheme_cdn.info.yml",
+		"/Users/Geert/Sites/devdesktop2/profile/themes/bootstrap_subtheme_cdn/bootstrap_subtheme_cdn.libraries.yml",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/app1/css/style.scss",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/.gitignore",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/app1/src/app1-app/app1-app.html",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/app1/bower.json",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/app1/index.html",
+		"/Applications/MAMP/htdocs/project2016079 Polymer/app1/src/app1-app/my-element.html",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Applications/MAMP/htdocs/my-app/index.html",
+		"/Applications/MAMP/htdocs/polymer/index.html",
+		"/Applications/MAMP/htdocs/my-app/hello-world.html",
+		"/Users/Geert/Sites/devdesktop2/2016D011/sites/default/settings.php",
+		"/Users/Geert/Sites/devdesktop2/2016D011/sites/example.settings.local.php",
+		"/Users/Geert/Sites/devdesktop2/2016D011/sites/default/settings.local.php",
+		"/Users/Geert/Sites/devdesktop2/Muze/sites/default/default.settings.php",
+		"/Users/Geert/Sites/devdesktop2/Muze/sites/default/settings.php",
+		"/Users/Geert/Sites/devdesktop2/Muze/sites/default/settings.local.php",
+		"/Applications/MAMP/htdocs/project2016077 - Lynda - course/Exercise Files Workflows/my folder/package.json",
+		"/Applications/MAMP/htdocs/project2016077 - Lynda - course/Exercise Files Workflows/my folder/index.html",
+		"/Applications/MAMP/htdocs/project2016075 - Retro site/drupal8/.htaccess",
+		"/Applications/MAMP/htdocs/project2016074 - Drupal 7/drupal-2/makefile01.make",
+		"/Users/Geert/Library/Mobile Documents/6LVTQB9699~com~seriflabs~affinitydesigner/Documents/maastrichter_my_star_shadow.svg",
+		"/usr/local/bin/mysqlbkup.sh",
+		"/Applications/MAMP/htdocs/mysqlbkup-master/mysqlbkup.sh",
+		"/Applications/MAMP/htdocs/mysqlbkup-master/mysqlbkup.config.sample",
+		"/Applications/MAMP/htdocs/mysqlbkup-master/mysqlbkup.cnf.sample",
+		"/Applications/MAMP/htdocs/mysqlbkup-master/CHANGELOG",
+		"/Applications/MAMP/htdocs/mysqlbkup-master/crontab",
+		"/Applications/MAMP/htdocs/project2016066 - blog Guy/sep16/secret.php",
+		"/Applications/MAMP/htdocs/project2016066 - blog Guy/sep16/index.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Library/Preferences/SystemConfiguration/com.apple.Boot.plist",
+		"/Library/Preferences/SystemConfiguration/preferences.plist",
+		"/Users/Geert/Downloads/afr.php",
+		"/Users/Geert/Desktop/mobirise 001/site/assets/theme/css/style.css",
+		"/Users/Geert/Desktop/mobirise 001/site/assets/smooth-scroll/SmoothScroll.js",
+		"/Users/Geert/Desktop/mobirise 001/site/assets/mobirise/css/mbr-additional.css",
+		"/Users/Geert/Desktop/mobirise 001/site/index.html",
+		"/Applications/MAMP/htdocs/project2016044-portfolio-MVC-RB/public/CSS/layout.css",
+		"/Applications/MAMP/htdocs/project2016044-portfolio-MVC-RB/public/CSS/style.css",
+		"/Applications/MAMP/htdocs/project2016037-eloquent-zurb/index.php",
+		"/Users/Geert/Downloads/symfony/finish/app/Resources/views/genus/show.html.twig",
+		"/Applications/MAMP/htdocs/project2016048 MVC-RB-leeg/bower_components/bootstrap/Gruntfile.js",
+		"/Applications/MAMP/htdocs/project2016051-shop3/prestashop_1.6.1.6/prestashop/.htaccess",
+		"/Applications/MAMP/htdocs/project2016051 shop3/prestashop_1.6.1.6/prestashop/.htaccess",
+		"/Applications/MAMP/htdocs/project2016044-portfolio-MVC-RB/app/core/Controller.php",
+		"/Users/Geert/Downloads/vip.php",
+		"/Users/Geert/Downloads/CRAB_stratenlijst(2)/AccessDB/miniCRAB.mdb",
+		"/Applications/MAMP/htdocs/project2016046 - october 2/install-master/README.md",
+		"/Applications/MAMP/htdocs/project2016040 boeken - RedBeans/data/db.sqlite",
+		"/Applications/MAMP/htdocs/project2016040 boeken - RedBeans/<? php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/views/header.view.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/vocal4s.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/contact.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/vip.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/valerie.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/tickets.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/singswing.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/productie.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/papillon-oud.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/papillon-jong.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/moosaiek.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/koren.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/index.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/akoestiek.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/acteurs.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/data/js/app.js",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/data/images/IMG_0088.jpg",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/papillon-jong.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/views/footer.view.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/views/hero.view.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/data/css/app.scss",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/vip.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/acteurs.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/index.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/papillon-oud.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/valerie.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/tickets.html",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/model/nav.class.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/controller/nav-controller.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/model/Page_Data.class.php",
+		"/Applications/MAMP/htdocs/project2016034-papillon-zurb/views/page.view.php",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP constructor.sublime-snippet",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/snippets/New class.sublime-snippet",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/2016038/app/Http/Controllers/Controller.php",
+		"/Users/Geert/Code/Quotes/resources/views/layouts/main.blade.php",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP protected method.sublime-snippet",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP method.sublime-snippet",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/resources/views/layouts/app.blade.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/CV.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/Http/Controllers/Admin/EmployersController.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/Http/Controllers/Controller.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/Job.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/Employer.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/database/migrations/2016_05_29_192530_create_jobs_table.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/database/migrations/2016_05_29_200742_create_c_vs_table.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/app/Http/Controllers/EmployerController.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/database/migrations/2016_05_29_192502_create_employers_table.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/database/db.sqlite",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/config/database.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/config/app.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/resources/views/welcome.blade.php",
+		"/Applications/MAMP/htdocs/project2016031 - laravel /Portfolio/.env",
+		"/Users/Geert/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Applications/MAMP/htdocs/zurb-geert/old/includes/portfolio.html",
+		"/Users/Geert/.homestead/Homestead.yaml",
+		"/Applications/MAMP/htdocs/project2016027-Papillon Drupal/drupal-7.43/sites/all/themes/pplln/pplln.info",
+		"/Users/Geert/Dropbox/JQuery/les 6 plugins/toc/toc_start.html",
+		"/Users/Geert/Dropbox/JQuery/Les5/animate.css",
+		"/Users/Geert/Dropbox/JQuery/Les5/02-uitsplitsen-functie-start.html",
+		"/Users/Geert/Downloads/bootstrap-4-alpha-oefenbestanden/jumbo.html",
+		"/Users/Geert/Downloads/BS4-Sass/apps.html",
+		"/Users/Geert/Downloads/bootstrap-3.3.6/docs/examples/sticky-footer/sticky-footer.css",
+		"/Users/Geert/Downloads/Propitiation_ The Atoning Sacrifice of Christ.html",
+		"/Users/Geert/app/index.html",
+		"/Applications/MAMP/htdocs/project2016020 CSS3 EW/banner 3/css/stijl.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"overr",
+			"<VirtualHost ",
+			"<VirtualHost *:80>",
+			"rewrite",
+			"<Virtual",
+			"\n$",
+			"fonts",
+			"value",
+			"html",
+			"http://www.test.oadige-ibis.be/",
+			"http://www.test.oadige-ibis.be",
+			"html",
+			"http://www.test.oadige-ibis.be",
+			"http://www.test.oadige-ibis.be/",
+			"http://www.test.oadige-ibis.be",
+			"test",
+			"http://www.test.oadige-ibis.be",
+			"html",
+			"http://www.papillon.oadige-ibis.be",
+			"http://www.hetgeheimvanpapillon.be/",
+			"http://www.papillon.oadige-ibis.be",
+			"http://www.hetgeheimvanpapillon.be",
+			"Tickets",
+			"f9",
+			"save",
+			");\n",
+			"$query = \"SELECT * FROM producten WHERE id=:id;\";\n\t$stmt = $conn->prepare($query);\n\t$stmt->execute([\n\t\t'id' => $_GET['id']\n\t]);\n\t$data = $stmt->fetch();\t",
+			"rotate",
+			"afbeelding",
+			"Afbeelding",
+			"afbeelding",
+			"beschrijving",
+			"Beschrijving",
+			"beschrijving",
+			"Beschrijving",
+			"beschrijving",
+			"optionsRadios",
+			"animated",
+			"hinge",
+			"svg",
+			".svg",
+			"svg",
+			"sup",
+			"about",
+			"glass",
+			"+",
+			"md-6",
+			"6",
+			"2s",
+			"mijnpositie",
+			"nav",
+			"div",
+			"menu",
+			"bootstrap_preprocess_html",
+			"mijnpositie",
+			"zijbalk",
+			"sidebar_first",
+			"highlighted",
+			"div",
+			";\n",
+			"required",
+			"kiwi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"php",
+			"http://www.test.oadige-ibis.be/",
+			"http://www.test.oadige-ibis.be",
+			"http://www.papillon.oadige-ibis.be"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CSS-snips.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP method.sublime-snippet"
+			],
+			[
+				"ssthtml",
+				"html/CSS_introductie/geert-lemoine-oefening attribute selectors/oefening-attributeSelectors.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
