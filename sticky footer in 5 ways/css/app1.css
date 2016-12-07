@@ -1,0 +1,36 @@
+body,
+html{
+    height: 100%;
+    margin: 0;
+    background-color: #111;
+    color: #AAA;
+    font-family: sans-serif;
+}
+.wrapper{
+    min-height: 100%;
+    margin-bottom: -50px;
+    width: 100%;
+}
+.footer,
+.push{
+    height: 50px;
+}
+.footer{
+    text-align: center;
+    background-color: orange;
+}
+.vertical-align {
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+.content{
+    text-align: center;
+    height: 200px;
+}
+
+@media only screen and (min-width: 40em) {
+    .content {
+        height: 500px;
+    }
+}
