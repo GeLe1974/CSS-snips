@@ -1,0 +1,14 @@
+body{
+    font-family: $body-font-family;
+    font-size: $body-font-size;
+    line-height: $body-line-height;
+    background-color: $body-background-color;
+    color: $body-text-color;
+    margin: 0;
+
+}
+
+a {
+    color: $link-color;
+    font-weight: $link-weight;
+}

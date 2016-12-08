@@ -1,0 +1,30 @@
+.button {
+    display: inline-block;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: $button-border-radius;
+    font-weight: 500;
+
+    background-color: $button-bg-color;
+    @include hover-background($button-bg-color);
+}
+
+.button.medium {
+    padding: 10px 16px;
+    font-size: 1em;
+    
+}
+
+.button.large {
+    padding: 12px 18px;
+    font-size: 1.1em;
+}
+
+.button.success {
+    @include hover-background($success-color);
+    color: #FFF;
+}
+.button.error {
+    @include hover-background($error-color);
+    color : #FFF;
+}
