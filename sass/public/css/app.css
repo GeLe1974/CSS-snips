@@ -2,7 +2,13 @@
  * Global
  */
 /**
+ * Colors
+ */
+/**
  * Container
+ */
+/**
+ * Buttons
  */
 ul.inline, .container .content p {
   padding: 0;
@@ -52,5 +58,30 @@ ul.inline li {
   font-size: .9em; }
   ul.inline li a {
     text-decoration: none; }
+
+.button {
+  display: inline-block;
+  padding: 8px 14px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  background-color: #E0E0E0;
+  background-color: rgba(224, 224, 224, 0.8); }
+
+.button.medium {
+  padding: 10px 16px;
+  font-size: 1em; }
+
+.button.large {
+  padding: 12px 18px;
+  font-size: 1.1em; }
+
+.button.success {
+  background-color: rgba(94, 188, 65, 0.8);
+  color: #FFF; }
+
+.button.error {
+  background-color: rgba(187, 40, 40, 0.8);
+  color: #FFF; }
 
 /*# sourceMappingURL=app.css.map */
