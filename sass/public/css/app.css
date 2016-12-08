@@ -1,0 +1,21 @@
+/**
+ * Global
+ */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 100%;
+  line-height: 150%;
+  background-color: #edeff0;
+  color: #222;
+  margin: 0; }
+
+a {
+  color: #000;
+  font-weight: 600; }
+
+.wrapper {
+  width: 100%;
+  max-width: 800px;
+  padding: 0 20px; }
+
+/*# sourceMappingURL=app.css.map */
