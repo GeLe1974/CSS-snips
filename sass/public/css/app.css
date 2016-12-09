@@ -66,22 +66,27 @@ ul.inline li {
   border-radius: 5px;
   font-weight: 500;
   background-color: #E0E0E0;
-  background-color: rgba(224, 224, 224, 0.8); }
-
-.button.medium {
-  padding: 10px 16px;
-  font-size: 1em; }
-
-.button.large {
-  padding: 12px 18px;
-  font-size: 1.1em; }
-
-.button.success {
-  background-color: rgba(94, 188, 65, 0.8);
-  color: #FFF; }
-
-.button.error {
-  background-color: rgba(187, 40, 40, 0.8);
-  color: #FFF; }
+  background-color: rgba(224, 224, 224, 0.8);
+  transition: background-color 100ms ease-in; }
+  .button:hover {
+    background-color: #E0E0E0; }
+  .button.medium {
+    padding: 10px 16px;
+    font-size: 1em; }
+  .button.large {
+    padding: 12px 18px;
+    font-size: 1.1em; }
+  .button.success {
+    background-color: rgba(94, 188, 65, 0.8);
+    transition: background-color 100ms ease-in;
+    color: #FFF; }
+    .button.success:hover {
+      background-color: #5EBC41; }
+  .button.error {
+    background-color: rgba(187, 40, 40, 0.8);
+    transition: background-color 100ms ease-in;
+    color: #FFF; }
+    .button.error:hover {
+      background-color: #BB2828; }
 
 /*# sourceMappingURL=app.css.map */
