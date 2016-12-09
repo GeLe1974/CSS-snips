@@ -95,21 +95,18 @@ ul.inline li {
 .top-nav {
   background-color: #444;
   height: 60px;
+  line-height: 60px;
   color: #fff;
   margin-bottom: 20px; }
   .top-nav .logo {
-    height: 60px;
-    line-height: 60px;
     margin-left: 20px;
     float: left; }
   .top-nav .top-nav-items {
-    line-height: 60px;
     float: left;
     margin-left: 40px;
     font-size: .9em; }
     .top-nav .top-nav-items a {
       display: block;
-      height: 60px;
       padding: 0 20px;
       color: #666;
       font-weight: 400;

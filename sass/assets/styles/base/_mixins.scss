@@ -12,3 +12,7 @@
     }
 
 }
+@mixin align-vertical($height){
+    height: $height;
+    line-height: $height;
+}
