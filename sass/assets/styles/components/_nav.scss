@@ -1,0 +1,40 @@
+.top-nav{
+    background-color: $nav-bg-color;
+
+    height: $nav-height;
+    color: $nav-text-color;
+    margin-bottom: 20px;
+
+    .logo {
+        height:$nav-height;
+        line-height: $nav-height;
+        margin-left: 20px;
+        float: left;
+    }
+    .top-nav-items{
+        @extend %inlinelist;
+        
+        line-height:$nav-height;
+        float:left;
+        margin-left:40px;
+        font-size: .9em;
+
+        a {
+            display: block;
+            height:$nav-height;
+            padding: 0 20px;
+            color:$nav-link-color;
+            font-weight: 400;
+            text-decoration: none;
+            
+            @include transition(color, 100ms, ease-in);
+            
+            &:hover {
+                color:#FFF;
+                @include hover-background (#555);
+
+            }
+        }
+
+    }
+}

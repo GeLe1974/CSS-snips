@@ -10,11 +10,14 @@
 /**
  * Buttons
  */
-ul.inline, .container .content p {
+/**
+ * Navigation
+ */
+ul.inline, .top-nav .top-nav-items, .container .content p {
   padding: 0;
   margin: 0; }
 
-ul.inline li {
+ul.inline li, .top-nav .top-nav-items li {
   display: inline-block;
   margin-right: 10px; }
 
@@ -88,5 +91,35 @@ ul.inline li {
     color: #FFF; }
     .button.error:hover {
       background-color: #BB2828; }
+
+.top-nav {
+  background-color: #444;
+  height: 60px;
+  color: #fff;
+  margin-bottom: 20px; }
+  .top-nav .logo {
+    height: 60px;
+    line-height: 60px;
+    margin-left: 20px;
+    float: left; }
+  .top-nav .top-nav-items {
+    line-height: 60px;
+    float: left;
+    margin-left: 40px;
+    font-size: .9em; }
+    .top-nav .top-nav-items a {
+      display: block;
+      height: 60px;
+      padding: 0 20px;
+      color: #666;
+      font-weight: 400;
+      text-decoration: none;
+      transition: color 100ms ease-in; }
+      .top-nav .top-nav-items a:hover {
+        color: #FFF;
+        background-color: rgba(85, 85, 85, 0.8);
+        transition: background-color 100ms ease-in; }
+        .top-nav .top-nav-items a:hover:hover {
+          background-color: #555; }
 
 /*# sourceMappingURL=app.css.map */
