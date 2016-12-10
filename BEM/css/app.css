@@ -18,10 +18,12 @@ body {
 
 .inline-list__item {
     display: inline-block;
-    padding-right: 20px;
+    margin-right: 20px;
 
 }
-
+.inline-list__item--last{
+    margin-right: 0px;
+}
 .avatar {
     border: 1px solid #0F0F0F;
     display: block;
