@@ -1,0 +1,14 @@
+@import 'mixins';
+@import 'components/list';
+
+
+body {
+    background-color: #EEE;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: black;
+    color : #FFF;
+      box-shadow: 2px 2px 20px #525252;
+}
