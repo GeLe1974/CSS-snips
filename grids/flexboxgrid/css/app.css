@@ -1,0 +1,22 @@
+body{
+    background: #EBE;
+}
+
+.block {
+    background: #BEB;
+}
+.flex-grid{
+    display: flex;
+}
+
+
+.third{
+    
+    width: 32%;
+}
+.col{
+    margin:  20px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
