@@ -1,0 +1,43 @@
+$box-heigth : 150px;
+$box-width: 150px;
+
+
+
+body{
+    background-color: #DDD;
+    font-family: sans-serif;
+}
+.title {
+    text-align: center;
+}
+
+.wrapper {
+    margin: 50px 10px 50px 20px;
+}
+
+.container{
+    display: flex;
+    min-width: 960px;
+    background-color: #0066DD;
+    &--row {
+        flex-direction: row;
+    }
+    &--rowreverse {
+        flex-direction: row-reverse;
+    }
+    &--column {
+        flex-direction: column;
+    }
+    &--columnreverse {
+        flex-direction: column-reverse;
+    }
+
+    .block{
+        min-width: $box-width;
+        min-height: $box-heigth;
+        background: orange;
+        text-align: center;
+        line-height: $box-heigth;
+        margin: 25px;
+    }
+}

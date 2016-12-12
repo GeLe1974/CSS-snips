@@ -1,0 +1,31 @@
+body {
+  background-color: #DDD;
+  font-family: sans-serif; }
+
+.title {
+  text-align: center; }
+
+.wrapper {
+  margin: 50px 10px 50px 20px; }
+
+.container {
+  display: flex;
+  min-width: 960px;
+  background-color: #0066DD; }
+  .container--row {
+    flex-direction: row; }
+  .container--rowreverse {
+    flex-direction: row-reverse; }
+  .container--column {
+    flex-direction: column; }
+  .container--columnreverse {
+    flex-direction: column-reverse; }
+  .container .block {
+    min-width: 150px;
+    min-height: 150px;
+    background: orange;
+    text-align: center;
+    line-height: 150px;
+    margin: 25px; }
+
+/*# sourceMappingURL=app.css.map */
