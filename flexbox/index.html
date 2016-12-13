@@ -3,63 +3,69 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Flexbox</title>
+        <title>Flexbox | Direction</title>
         <meta name="description" content="flexbox">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
         <link rel="stylesheet" href="css/app.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
         <!--<link rel="stylesheet" href="css/main.css"> -->
     </head>
     <body>
         <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
         <!-- Add your site or application content here -->
         
-            <div class="wrapper">
-            <h1 class="title">row</h1>
-                <div class="container container--row">
-                    <div class="block">1</div>
-                    <div class="block">2</div>
-                    <div class="block">3</div>
-                </div>
-            <h1 class="title">column</h1>    
-                <div class="container container--column">
-                    <div class="block">1</div>
-                    <div class="block">2</div>
-                    <div class="block">3</div>
-                </div>
-                <h1 class="title">column reverse</h1>
-                <div class="container container--columnreverse">
-                    <div class="block">1</div>
-                    <div class="block">2</div>
-                    <div class="block">3</div>
-                </div>
-                <h1 class="title">row reverse</h1>
-                <div class="container container--rowreverse">
-                    <div class="block">1</div>
-                    <div class="block">2</div>
-                    <div class="block">3</div>
-                </div>
-
+        <nav class="topnav">
+            <div class="topnav topnav_logo">
+                Flexbox
             </div>
-
-
-
-
+            <ul class="topnav topnav_list">
+                <li class="topnav topnav_list topnav_list_item"><a href="#">Home</a></li>
+                <li class="topnav topnav_list topnav_list_item"><a href="#">Direction</a></li>
+                <li class="topnav topnav_list topnav_list_item topnav_list_item--last"><a href="#">Justify</a></li>
+            </ul>
+        </nav>
+        <div class="wrapper">
+            <hr>
+            <h1 class="title">Flex direction</h1>
+            <hr>
+            <h1 class="title">row</h1>
+            <div class="container container--row">
+                <div class="block">1</div>
+                <div class="block block--wide">2</div>
+                <div class="block">3</div>
+            </div>
+            <h1 class="title">column</h1>
+            <div class="container container--column">
+                <div class="block">1</div>
+                <div class="block block--wide">2</div>
+                <div class="block">3</div>
+            </div>
+            <h1 class="title">column reverse</h1>
+            <div class="container container--columnreverse">
+                <div class="block">1</div>
+                <div class="block ">2</div>
+                <div class="block">3</div>
+            </div>
+            <h1 class="title">row reverse</h1>
+            <div class="container container--rowreverse">
+                <div class="block">1 </div>
+                <div class="block block--wide block--high">2 long</div>
+                <div class="block">3 </div>
+            </div>
+        </div>
         <script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
-
         <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
         <script>
-            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-            ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+        window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
         </script>
         <script src="https://www.google-analytics.com/analytics.js" async defer></script>
     </body>
